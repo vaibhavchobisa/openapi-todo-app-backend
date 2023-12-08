@@ -58,6 +58,7 @@
 						}
 					}
 				},
+				"description": "We can provide description about the API here, which would then be included in the OpenAPI spec file 'swagger.json'.\nFor example:\nThis is the controller for getting a todo respective of its id.",
 				"security": [],
 				"parameters": [
 					{
